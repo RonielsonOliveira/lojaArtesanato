@@ -1,0 +1,105 @@
+[
+  {
+    "id": 1,
+    "nome": "Amigurumi Ursinho Fofinho",
+    "preco": 89.9,
+    "quantidade": 12,
+    "categoria": "Amigurumi",
+    "descricao": "Ursinho de crochê artesanal feito à mão com linha premium.",
+    "especificacao": {
+      "material": "Linha 100% algodão",
+      "enchimento": "Fibra siliconada antialérgica",
+      "altura": "22 cm",
+      "peso": "180 g",
+      "acabamento": "Costura manual reforçada",
+      "indicacao": "Decoração ou presente"
+    },
+    "imagem": "https://blog.pingouin.com.br/wp-content/uploads/2025/07/BELLA-AMIGURUMI-1.jpg"
+  },
+  {
+    "id": 2,
+    "nome": "Amigurumi Coelhinho Decorativo",
+    "preco": 99.9,
+    "quantidade": 8,
+    "categoria": "Amigurumi",
+    "descricao": "Coelhinho em crochê, ideal para decoração infantil ou presente.",
+    "especificacao": {
+      "material": "Linha de algodão premium",
+      "enchimento": "Fibra siliconada",
+      "altura": "25 cm",
+      "peso": "200 g",
+      "acabamento": "Detalhes bordados à mão",
+      "indicacao": "Decoração infantil"
+    },
+    "imagem": "https://crocheumaarte.com.br/wp-content/uploads/2021/02/oie_7TbMwinTovDD.png"
+  },
+  {
+    "id": 3,
+    "nome": "Boneca Amigurumi Artesanal",
+    "preco": 149.9,
+    "quantidade": 5,
+    "categoria": "Amigurumi",
+    "descricao": "Boneca feita à mão com detalhes cuidadosos e alta qualidade.",
+    "especificacao": {
+      "material": "Linha de algodão e acrílico",
+      "enchimento": "Fibra siliconada antialérgica",
+      "altura": "30 cm",
+      "peso": "280 g",
+      "acabamento": "Roupas removíveis e costura manual",
+      "indicacao": "Colecionável ou presente"
+    },
+    "imagem": "https://down-br.img.susercontent.com/file/br-11134207-7r98o-m8npwrb8ef0xf8"
+  },
+  {
+    "id": 4,
+    "nome": "Chaveiro Mini Amigurumi",
+    "preco": 29.9,
+    "quantidade": 30,
+    "categoria": "Acessórios Artesanais",
+    "descricao": "Mini chaveiro artesanal em crochê — lembretes perfeitos.",
+    "especificacao": {
+      "material": "Linha de algodão",
+      "enchimento": "Fibra siliconada",
+      "altura": "8 cm",
+      "peso": "40 g",
+      "acabamento": "Argola metálica resistente",
+      "indicacao": "Chaveiro ou lembrancinha"
+    },
+    "imagem": "https://blog.pingouin.com.br/wp-content/uploads/2024/08/amigurumi-signo-virgem.jpg"
+  },
+  {
+    "id": 5,
+    "nome": "Kit Amigurumi Conjunto Fofura",
+    "preco": 219.9,
+    "quantidade": 6,
+    "categoria": "Kits Artesanais",
+    "descricao": "Conjunto com 3 peças de amigurumi — ótimo presente artesanal.",
+    "especificacao": {
+      "material": "Linha de algodão premium",
+      "enchimento": "Fibra siliconada antialérgica",
+      "quantidadeDePecas": 3,
+      "alturaMedia": "20 cm",
+      "pesoTotal": "600 g",
+      "acabamento": "Feito à mão com padrão artesanal",
+      "indicacao": "Presente completo"
+    },
+    "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQDx4AUziuwK_R3VWBNeMb0LfZeifLE9Rgiw&s"
+  },
+  {
+    "id": 6,
+    "nome": "Amigurumi Enfeite de Decoração",
+    "preco": 79.9,
+    "quantidade": 10,
+    "categoria": "Decoração Artesanal",
+    "descricao": "Peça decorativa de crochê feita à mão, estilo artesanal.",
+    "especificacao": {
+      "material": "Linha de algodão",
+      "enchimento": "Fibra siliconada",
+      "altura": "18 cm",
+      "peso": "150 g",
+      "acabamento": "Base reforçada para apoio",
+      "indicacao": "Decoração de ambientes"
+    },
+    "imagem": "https://img.elo7.com.br/product/360x360/4601395/enfeites-de-natal-amigurumi-natal.jpg"
+  }
+]
