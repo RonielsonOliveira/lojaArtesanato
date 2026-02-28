@@ -1,7 +1,7 @@
 import styled, { css } from "styled-components";
 import media from "styled-media-query";
 import { Link } from "react-router-dom";
-import theme from "../../styles/theme.ts";
+
 export const Wrapper = styled.menu`
   ${({ theme }) => css`
     background: ${theme.colors.colorPrimary};

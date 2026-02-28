@@ -7,9 +7,6 @@ export default function Header() {
     <Nav>
       <LogoGroup>
         <a>Angela Artesanatos</a>
-        <Link to="/" className="Link">
-          <img src={logo}></img>
-        </Link>
       </LogoGroup>
       <SearchGroup>
         <input type="text" placeholder="search"></input>
